@@ -246,4 +246,4 @@ This repository serves as the official landing page for IGdm. The software is di
 **Get the most recent version of IGdm today!**
 
 ---
-**Last updated:** 2026-11-02 23:22:57 UTC
+**Last updated:** 2026-11-03 06:15:18 UTC
